@@ -131,6 +131,6 @@ dist
 
 # Custom
 styles/*
-
 !styles/example.scss
-compiled.css
+
+./compiled.css
