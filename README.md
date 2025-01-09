@@ -1,5 +1,5 @@
-# jellystyle
-## Easily manage your jellyfin css from a selfhosted service
+[icon](https://github-readme-stats.vercel.app/api/pin/?username=astingraye&repo=jellystyle&theme=catppuccin)
+
 ### Rundown
 Essentially, this is a organiser/server for scss files (but I made and use it for jellyfin, so it's named that way).
 It merges all files in jellystyle/styles, and logs them with fancy metadata/error notices.
